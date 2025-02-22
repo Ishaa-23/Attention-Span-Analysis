@@ -28,7 +28,20 @@ Power Bi
 * Performed splitting of columns based on delimiters due to rows having multiple values. 
 *	Performed unpivoting and indexing.
 *	Created derived columns based on existing columns.
-*	Used DAX functions to create key measures
 
 **Data analysis & visualization**
+*	Created interactive dashboards to compare different user behaviours.
+*	Built trend analysis visuals showing various sorts relationships between short-form content consumption and attention span.
+*	Used DAX functions to derive key insights on user engagement and focus patterns.
 
+**Insights**
+* Instagram dominates: 70% of people use Instagram, and 60% prefer reels under 20 seconds.
+* Screen time extremes: The highest daily screen time (6.9 hrs) and social media usage (4.2 hrs) are reported by unemployed users.
+* Engagement trends: People are more likely to engage with fast-paced entertainment & comedy videos over longer educational content.
+* Attention span decline: 69% of students report a decline in attention span, especially those with 4+ hours of daily screen time.
+* Academic impact: 84% of students say phone use negatively affects studying and class performance.
+* Health risks & focus: 73% of students at health risk also report a decline in attention span.
+* Productivity concerns: 72% feel their productivity is hindered by reels and shorts, while 77% admit to addiction.
+* Focus & content preference: Among those struggling to focus on longer content like articles, 64% prefer short-form videos.
+* Age & addiction trends: Users aged 20-30 and employed individuals report feeling most addicted to short-form content.
+* Managing screen time: Most students consider limiting screen time the best precaution, followed by taking breaks.
