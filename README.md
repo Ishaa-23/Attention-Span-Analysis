@@ -3,7 +3,8 @@ With the rise of short-form content like Instagram Reels, YouTube Shorts, and Ti
 # Dashboard
 ![Picture1](https://github.com/user-attachments/assets/e3c70fd2-59d9-462e-977b-d63122e9ee3a)
 ![Picture2](https://github.com/user-attachments/assets/8e604f5a-346a-4ce9-9fe8-b3e6177f3f17)
-![image](https://github.com/user-attachments/assets/91def417-24ed-4040-b492-38a1a2b8d1ba)
+![Picture3](https://github.com/user-attachments/assets/b8ef9006-1f82-4497-a7aa-78c6bd8d05bf)
+
 # Tech Stack
 Python, Power Bi
 # Questions answered (KPIs)
