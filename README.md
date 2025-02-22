@@ -2,8 +2,6 @@
 With the rise of short-form content like Instagram Reels, YouTube Shorts, and TikTok videos, concerns are growing about its impact on attention span, productivity, and overall well-being. This project aims to analyze how consuming short-format content influences focus and cognitive abilities, affects work and academic productivity, and contributes to social media addiction and its effects on mental well-being.
 # Dashboard
 ![image](https://github.com/user-attachments/assets/91def417-24ed-4040-b492-38a1a2b8d1ba)
-![image](https://github.com/user-attachments/assets/247748ef-f500-4132-8c10-c03b1606b10c)
-
 # Questions answered (KPIs)
 * User demographics
 * Short form content consumption trends
