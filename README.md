@@ -51,4 +51,4 @@ Power Bi
 * Encourage mindful content consumption → Prioritize educational and long-form content to improve attention span.
 * Take regular breaks
 # Links
-[![Portfolio](https://www.datascienceportfol.io/ishaaabdul23)
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23)
