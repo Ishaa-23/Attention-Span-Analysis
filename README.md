@@ -1,7 +1,7 @@
 # Attention-Span-Analysis
 With the rise of short-form content like Instagram Reels, YouTube Shorts, and TikTok videos, concerns are growing about its impact on attention span, productivity, and overall well-being. This project aims to analyze how consuming short-format content influences focus and cognitive abilities, affects work and academic productivity, and contributes to social media addiction and its effects on mental well-being.
 # Dashboard
-![9l7yff](https://github.com/user-attachments/assets/6c741a61-bf97-42a1-87f8-9d2ea3c9d2a9)
+![ezgif com-optimize](https://github.com/user-attachments/assets/7af872b6-add7-4def-8bcc-0613ebcb3614)
 
 # Tech Stack
 Python, Power Bi
